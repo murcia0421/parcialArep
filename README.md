@@ -3,7 +3,9 @@ AREP-PARCIAL-1
 Juan Daniel Murcia
 Para ejecutar el proyecto se debe seguir los siguientes pasos:
 
-git clone
+git clone https://github.com/murcia0421/parcialArep.git
+
+y luego dirijase al directorio correspondiente
 
 mvn clean compile
 Para ejecutar el proyecto se debe ejecutar el siguiente comando:
